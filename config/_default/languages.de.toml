@@ -2,7 +2,7 @@ disabled = false
 languageCode = "de"
 languageName = "Deutsch"
 weight = 1
-title = "Reiterhof Fiedel"
+title = "Mauris Blog"
 
 [params]
   displayName = "DE"
