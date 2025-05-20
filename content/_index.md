@@ -5,7 +5,5 @@ draft: false
 description: ""
 ---
 # :construction: :construction: :construction:
-## hier entsteht 
-## unsere neue Webseite 
-# :horse: :horse: :horse: :horse: :horse: 
+## this will be a blog
 # :construction: :construction: :construction:
